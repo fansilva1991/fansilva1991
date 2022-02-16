@@ -45,3 +45,11 @@ Currently, I'm working for [Maple Leaf Sports & Entertainment](https://www.mlse
     <img src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
 </p>
+
+### Where you can find me
+
+<p float="left">
+  <a href="https://www.linkedin.com/in/fansilva1991/">
+      <img src="https://img.shields.io/badge/-@fansilva1991-0077B5?style=flat-      square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fansilva1991/" alt="LinkedIn Badge">
+  </a>
+</p>
