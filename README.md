@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **fansilva1991/fansilva1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Felipe, I'm a developer focused on building mobile solutions using React Native.
+
+
+
+### The main stack and techs that I work with are:
+
+<p float="left">
+  <a href="https://reactjs.org/">
+    <img src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://devstickers.com/assets/img/pro/og1w.png" width="40">
+  </a>
+  <a href="https://graphql.org/">
+    <img src="https://devstickers.com/assets/img/pro/btip.png" width="40">
+  </a>
+  <a href="https://www.android.com/">
+    <img src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
+    <img src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
+  </a>
+  
+  <a href="https://code.visualstudio.com/">
+    <img src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+  </a>
+</p>
