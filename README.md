@@ -52,4 +52,7 @@ Currently, I'm working for [Maple Leaf Sports & Entertainment](https://www.mlse
   <a href="https://www.linkedin.com/in/fansilva1991/">
       <img src="https://img.shields.io/badge/-@fansilva1991-0077B5?style=flat-      square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fansilva1991/" alt="LinkedIn Badge">
   </a>
+  <a href="https://pt.stackoverflow.com/users/266173/felipe-augusto-nunes-da-silva">
+      <img src="https://img.shields.io/badge/stackoverflow-fansilva1991-red" alt="Stackoverflow Badge">
+  </a>
 </p>
