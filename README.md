@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Felipe, I'm a developer focused on building mobile solutions using React Native.
 
-Currently, I'm working for [Maple Leaf Sports & Entertainment](https://www.mlse.com/) on Canadá, remotely from Brazil.
+Currently, I'm working for [SportNinja](https://www.sportninja.com/) on Canadá, remotely from Brazil. Also, I'm a former employee of [Maple Leaf Sports & Entertainment](https://www.mlse.com/).
 
 ### The main stack and techs that I work with are:
 
